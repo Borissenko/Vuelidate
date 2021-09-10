@@ -30,7 +30,7 @@
 </template>
 
 <script lang="ts">
-import Vue from 'vue';
+import Vue from 'vue'
 import {required, minLength} from 'vuelidate/lib/validators'
 
 export default Vue.extend({
